@@ -1,16 +1,21 @@
 <p align="center">
 	<img alt="logo" src="favicon.png">
 </p>
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">仿deepseek 大模型对话 v1.3.0</h1>
-<h4 align="center">基于vue3+css 仿deepseek 大模型对话 电脑端+移动端</h4>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">智能体SAAS系统 v1.3.5</h1>
 <p align="center">
 	<a href="https://github.com/webusi-dms/ai-chat/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg"></a>
 </p>
 
 ## 简介
-轻量级微服务架构 仿deepseek大模型对话 电脑端/移动端+管理端。<p/>
+采用微服务架构，依托主流LLM应用平台，面向行业用户构建智能体SAAS应用服务中心。<p/>
 
-核心功能：流式对话/历史对话/内容下载/多平台模型切换(ollama、魔撘社区、阿里云百炼平台)/LLM应用中心
+核心功能<br>
+* 支持双端：电脑端/移动端
+* 大模型对话：流式对话/历史对话/内容下载
+* 智能体：面向行业的智能体
+* 支持主流大模型平台:ollama/魔撘社区/百炼平台等
+* 支持LLM应用中心:百炼/Dify/N8N/FastGPT/钉钉等
+* 基础能力：用户管理/租户管理/计费管理/智能体市场
 
 技术栈<br>
 * Vue3、CSS、Element Plus、vant
